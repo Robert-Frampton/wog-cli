@@ -1,0 +1,19 @@
+{
+  "name": "wog-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Robert-Frampton/wog-cli.git"
+  },
+  "author": "Rob Frampton <rob.g.frampton@gmail.com> (https://github.com/Robert-Frampton)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robert-Frampton/wog-cli/issues"
+  },
+  "homepage": "https://github.com/Robert-Frampton/wog-cli"
+}
